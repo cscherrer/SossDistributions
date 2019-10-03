@@ -1,0 +1,13 @@
+name = "SossDistributions"
+uuid = "daa9a0d2-683b-4724-a978-e14b19fa6192"
+authors = ["Chad Scherrer"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
